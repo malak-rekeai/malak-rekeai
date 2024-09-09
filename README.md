@@ -25,6 +25,7 @@ seeking ways to optimize performance and efficiency.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malak-rekeai&" alt="malak-rekeai" /></p>
 
 ## Professional Experience
+React js developer , Solution Path Company 
 
 ### Web Developer, Abu Jadayel Company
 **May 2023 – Present**
@@ -35,7 +36,7 @@ seeking ways to optimize performance and efficiency.
 
 
 
-- Teacher Assistant, Al-Karmel High School, Gaza Palestine, 2021
+- Teacher Assistant, islamic university , Gaza Palestine, 2021
 - Web Development Tutor (virtual), American Business Academy, NJ, USA, 2020
 
 ## Connect with Me
