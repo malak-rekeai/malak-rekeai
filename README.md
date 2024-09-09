@@ -2,7 +2,8 @@
 
 ## About Me
 
-A dedicated Web Developer with a Bachelor’s degree in Computer Science from the Islamic University of Gaza. I have a strong background in various web development technologies and frameworks, with a focus on delivering efficient and user-friendly solutions.
+As a React.js frontend developer, I am dedicated to self-improvement and always eager to learn new technologies and methodologies. I am a quick learner who strives to balance the company's objectives with delivering high-quality customer satisfaction. My goal is to be an active contributor, an attentive listener, and to work diligently to advance both my career and the field of frontend development. Additionally, I focus on building responsive and user-friendly interfaces that enhance user experience, while constantly
+seeking ways to optimize performance and efficiency.
 
 - 📫 Contact: +96892495646 | malak.alrekeai@gmail.com
 - 🌍 Location: Oman, Muscat
@@ -40,4 +41,4 @@ A dedicated Web Developer with a Bachelor’s degree in Computer Science from th
 ## Connect with Me
 
 - [GitHub](https://github.com/malak-rekeai)
-- [Upwork](https://www.upwork.com/freelancers/~01cdc392e434511061)
+- [Upwork](https://www.upwork.com/freelancers/malakr)
